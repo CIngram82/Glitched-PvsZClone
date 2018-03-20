@@ -2,51 +2,48 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class FadePanel : MonoBehaviour {
-    private Image image;
-    public float fadeInTime;
-    private Color imageColor;
+    public Texture2D image;
+    public float fadeSpeed;
 
-    public float fadeOutTime;
-    public bool fadeIn;
-    public bool fadeOut;
+    private int drawDepth = -1000;
+    private float alpha = 1.0f;
+    private int fadeDir = -1;
+
+    void OnGUI()
+    {
+        Debug.Log("ONGUI");
+        alpha += fadeDir * fadeSpeed * Time.deltaTime;
+        Debug.Log("alpha" + alpha);
+        alpha = Mathf.Clamp01(alpha);
+
+        GUI.color = new Color(GUI.color.r, GUI.color.g, GUI.color.b, alpha);
+        GUI.depth = drawDepth;
+        GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), image);
+    }
+
+    public float BegainFade(int direction)
+    {
+        fadeDir = direction;
+        return (fadeSpeed);
+    }
 
 
 
-    private float imageAlpha;
-    private float alphaChange;
-    
-    void Start () {
-        image = GetComponent<Image>();
-	}
-	
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
 
-    
-	void Update () {
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
 
-        if (fadeIn)
-        {
-            alphaChange += Time.deltaTime / fadeInTime;
-            imageAlpha = Mathf.Lerp(1f, 0f, alphaChange);
-            imageColor.a -= alphaChange;
-            image.color = imageColor;
-            if (alphaChange >= 1f)
-            {
-                alphaChange = 0;
-                fadeIn = false;
-                gameObject.SetActive(false);
-            }
-        }
-
-        if(!fadeIn && fadeOut)
-        {
-            gameObject.SetActive(true);
-            alphaChange += Time.deltaTime * fadeOutTime;
-            imageAlpha = Mathf.Lerp(0f, 1f, alphaChange);
-            imageColor.a += alphaChange;
-            image.color = imageColor;
-            if (imageAlpha >= 1) fadeIn = false;
-        }
+    private void OnSceneLoaded(Scene scene, LoadSceneMode loadSceneMode)
+    {
+        BegainFade(-1);
     }
 }
