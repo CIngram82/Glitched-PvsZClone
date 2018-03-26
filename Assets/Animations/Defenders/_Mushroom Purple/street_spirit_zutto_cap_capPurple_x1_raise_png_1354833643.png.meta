@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 6b2b45e44c79686439cbb4040a9bc4b7
+timeCreated: 1522067164
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_0
+    21300002: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_1
+    21300004: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_2
+    21300006: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_3
+    21300008: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_4
+    21300010: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_5
+    21300012: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_6
+    21300014: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_7
+    21300016: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_8
+    21300018: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_9
+    21300020: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_10
+    21300022: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_11
+    21300024: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_12
+    21300026: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_13
+    21300028: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_14
+    21300030: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_15
+    21300032: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_16
+    21300034: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_17
+    21300036: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_18
+    21300038: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_19
+    21300040: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_20
+    21300042: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_21
+    21300044: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_22
+    21300046: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_23
+    21300048: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_24
+    21300050: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_25
+    21300052: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_26
+    21300054: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_27
+    21300056: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_28
+    21300058: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_29
+    21300060: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_30
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 900
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 900
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 900
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 900
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 900
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 720
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 720
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 720
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 720
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 720
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 540
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 540
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 540
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 540
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_17
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 540
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 360
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 360
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 360
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 360
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_23
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 360
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 180
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 180
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 180
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_28
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 180
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_29
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 180
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_zutto_cap_capPurple_x1_raise_png_1354833643_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

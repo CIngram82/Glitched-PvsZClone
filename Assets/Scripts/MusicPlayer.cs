@@ -15,6 +15,7 @@ public class MusicPlayer : MonoBehaviour {
     private void Start()
     {
         audioSource = GetComponent<AudioSource>();
+        audioSource.volume = PlayerPrefsManager.GetMasterVolume();
     }
 
     private void OnEnable()
@@ -46,4 +47,9 @@ public class MusicPlayer : MonoBehaviour {
         }
     }
   
+    public void SetVolume(float newVolume)
+    {
+        audioSource.volume = newVolume;
+    }
+
 }

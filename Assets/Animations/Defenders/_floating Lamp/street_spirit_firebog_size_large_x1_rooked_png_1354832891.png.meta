@@ -1,0 +1,802 @@
+fileFormatVersion: 2
+guid: d0c6d2c5cc70a884087cdffbf4b1c6b6
+timeCreated: 1522067352
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: street_spirit_firebog_size_large_x1_rooked_png_1354832891_0
+    21300002: street_spirit_firebog_size_large_x1_rooked_png_1354832891_1
+    21300004: street_spirit_firebog_size_large_x1_rooked_png_1354832891_2
+    21300006: street_spirit_firebog_size_large_x1_rooked_png_1354832891_3
+    21300008: street_spirit_firebog_size_large_x1_rooked_png_1354832891_4
+    21300010: street_spirit_firebog_size_large_x1_rooked_png_1354832891_5
+    21300012: street_spirit_firebog_size_large_x1_rooked_png_1354832891_6
+    21300014: street_spirit_firebog_size_large_x1_rooked_png_1354832891_7
+    21300016: street_spirit_firebog_size_large_x1_rooked_png_1354832891_8
+    21300018: street_spirit_firebog_size_large_x1_rooked_png_1354832891_9
+    21300020: street_spirit_firebog_size_large_x1_rooked_png_1354832891_10
+    21300022: street_spirit_firebog_size_large_x1_rooked_png_1354832891_11
+    21300024: street_spirit_firebog_size_large_x1_rooked_png_1354832891_12
+    21300026: street_spirit_firebog_size_large_x1_rooked_png_1354832891_13
+    21300028: street_spirit_firebog_size_large_x1_rooked_png_1354832891_14
+    21300030: street_spirit_firebog_size_large_x1_rooked_png_1354832891_15
+    21300032: street_spirit_firebog_size_large_x1_rooked_png_1354832891_16
+    21300034: street_spirit_firebog_size_large_x1_rooked_png_1354832891_17
+    21300036: street_spirit_firebog_size_large_x1_rooked_png_1354832891_18
+    21300038: street_spirit_firebog_size_large_x1_rooked_png_1354832891_19
+    21300040: street_spirit_firebog_size_large_x1_rooked_png_1354832891_20
+    21300042: street_spirit_firebog_size_large_x1_rooked_png_1354832891_21
+    21300044: street_spirit_firebog_size_large_x1_rooked_png_1354832891_22
+    21300046: street_spirit_firebog_size_large_x1_rooked_png_1354832891_23
+    21300048: street_spirit_firebog_size_large_x1_rooked_png_1354832891_24
+    21300050: street_spirit_firebog_size_large_x1_rooked_png_1354832891_25
+    21300052: street_spirit_firebog_size_large_x1_rooked_png_1354832891_26
+    21300054: street_spirit_firebog_size_large_x1_rooked_png_1354832891_27
+    21300056: street_spirit_firebog_size_large_x1_rooked_png_1354832891_28
+    21300058: street_spirit_firebog_size_large_x1_rooked_png_1354832891_29
+    21300060: street_spirit_firebog_size_large_x1_rooked_png_1354832891_30
+    21300062: street_spirit_firebog_size_large_x1_rooked_png_1354832891_31
+    21300064: street_spirit_firebog_size_large_x1_rooked_png_1354832891_32
+    21300066: street_spirit_firebog_size_large_x1_rooked_png_1354832891_33
+    21300068: street_spirit_firebog_size_large_x1_rooked_png_1354832891_34
+    21300070: street_spirit_firebog_size_large_x1_rooked_png_1354832891_35
+    21300072: street_spirit_firebog_size_large_x1_rooked_png_1354832891_36
+    21300074: street_spirit_firebog_size_large_x1_rooked_png_1354832891_37
+    21300076: street_spirit_firebog_size_large_x1_rooked_png_1354832891_38
+    21300078: street_spirit_firebog_size_large_x1_rooked_png_1354832891_39
+    21300080: street_spirit_firebog_size_large_x1_rooked_png_1354832891_40
+    21300082: street_spirit_firebog_size_large_x1_rooked_png_1354832891_41
+    21300084: street_spirit_firebog_size_large_x1_rooked_png_1354832891_42
+    21300086: street_spirit_firebog_size_large_x1_rooked_png_1354832891_43
+    21300088: street_spirit_firebog_size_large_x1_rooked_png_1354832891_44
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 976
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_13
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_16
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 732
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_24
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_25
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_26
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 488
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_33
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_35
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 244
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_38
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_40
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_41
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_42
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_43
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_rooked_png_1354832891_44
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

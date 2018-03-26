@@ -1,0 +1,3022 @@
+fileFormatVersion: 2
+guid: 289e83009b571a8458c73e72d44cb458
+timeCreated: 1522068587
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pet_rock__x1_idle_png_1354831039_0
+    21300002: pet_rock__x1_idle_png_1354831039_1
+    21300004: pet_rock__x1_idle_png_1354831039_2
+    21300006: pet_rock__x1_idle_png_1354831039_3
+    21300008: pet_rock__x1_idle_png_1354831039_4
+    21300010: pet_rock__x1_idle_png_1354831039_5
+    21300012: pet_rock__x1_idle_png_1354831039_6
+    21300014: pet_rock__x1_idle_png_1354831039_7
+    21300016: pet_rock__x1_idle_png_1354831039_8
+    21300018: pet_rock__x1_idle_png_1354831039_9
+    21300020: pet_rock__x1_idle_png_1354831039_10
+    21300022: pet_rock__x1_idle_png_1354831039_11
+    21300024: pet_rock__x1_idle_png_1354831039_12
+    21300026: pet_rock__x1_idle_png_1354831039_13
+    21300028: pet_rock__x1_idle_png_1354831039_14
+    21300030: pet_rock__x1_idle_png_1354831039_15
+    21300032: pet_rock__x1_idle_png_1354831039_16
+    21300034: pet_rock__x1_idle_png_1354831039_17
+    21300036: pet_rock__x1_idle_png_1354831039_18
+    21300038: pet_rock__x1_idle_png_1354831039_19
+    21300040: pet_rock__x1_idle_png_1354831039_20
+    21300042: pet_rock__x1_idle_png_1354831039_21
+    21300044: pet_rock__x1_idle_png_1354831039_22
+    21300046: pet_rock__x1_idle_png_1354831039_23
+    21300048: pet_rock__x1_idle_png_1354831039_24
+    21300050: pet_rock__x1_idle_png_1354831039_25
+    21300052: pet_rock__x1_idle_png_1354831039_26
+    21300054: pet_rock__x1_idle_png_1354831039_27
+    21300056: pet_rock__x1_idle_png_1354831039_28
+    21300058: pet_rock__x1_idle_png_1354831039_29
+    21300060: pet_rock__x1_idle_png_1354831039_30
+    21300062: pet_rock__x1_idle_png_1354831039_31
+    21300064: pet_rock__x1_idle_png_1354831039_32
+    21300066: pet_rock__x1_idle_png_1354831039_33
+    21300068: pet_rock__x1_idle_png_1354831039_34
+    21300070: pet_rock__x1_idle_png_1354831039_35
+    21300072: pet_rock__x1_idle_png_1354831039_36
+    21300074: pet_rock__x1_idle_png_1354831039_37
+    21300076: pet_rock__x1_idle_png_1354831039_38
+    21300078: pet_rock__x1_idle_png_1354831039_39
+    21300080: pet_rock__x1_idle_png_1354831039_40
+    21300082: pet_rock__x1_idle_png_1354831039_41
+    21300084: pet_rock__x1_idle_png_1354831039_42
+    21300086: pet_rock__x1_idle_png_1354831039_43
+    21300088: pet_rock__x1_idle_png_1354831039_44
+    21300090: pet_rock__x1_idle_png_1354831039_45
+    21300092: pet_rock__x1_idle_png_1354831039_46
+    21300094: pet_rock__x1_idle_png_1354831039_47
+    21300096: pet_rock__x1_idle_png_1354831039_48
+    21300098: pet_rock__x1_idle_png_1354831039_49
+    21300100: pet_rock__x1_idle_png_1354831039_50
+    21300102: pet_rock__x1_idle_png_1354831039_51
+    21300104: pet_rock__x1_idle_png_1354831039_52
+    21300106: pet_rock__x1_idle_png_1354831039_53
+    21300108: pet_rock__x1_idle_png_1354831039_54
+    21300110: pet_rock__x1_idle_png_1354831039_55
+    21300112: pet_rock__x1_idle_png_1354831039_56
+    21300114: pet_rock__x1_idle_png_1354831039_57
+    21300116: pet_rock__x1_idle_png_1354831039_58
+    21300118: pet_rock__x1_idle_png_1354831039_59
+    21300120: pet_rock__x1_idle_png_1354831039_60
+    21300122: pet_rock__x1_idle_png_1354831039_61
+    21300124: pet_rock__x1_idle_png_1354831039_62
+    21300126: pet_rock__x1_idle_png_1354831039_63
+    21300128: pet_rock__x1_idle_png_1354831039_64
+    21300130: pet_rock__x1_idle_png_1354831039_65
+    21300132: pet_rock__x1_idle_png_1354831039_66
+    21300134: pet_rock__x1_idle_png_1354831039_67
+    21300136: pet_rock__x1_idle_png_1354831039_68
+    21300138: pet_rock__x1_idle_png_1354831039_69
+    21300140: pet_rock__x1_idle_png_1354831039_70
+    21300142: pet_rock__x1_idle_png_1354831039_71
+    21300144: pet_rock__x1_idle_png_1354831039_72
+    21300146: pet_rock__x1_idle_png_1354831039_73
+    21300148: pet_rock__x1_idle_png_1354831039_74
+    21300150: pet_rock__x1_idle_png_1354831039_75
+    21300152: pet_rock__x1_idle_png_1354831039_76
+    21300154: pet_rock__x1_idle_png_1354831039_77
+    21300156: pet_rock__x1_idle_png_1354831039_78
+    21300158: pet_rock__x1_idle_png_1354831039_79
+    21300160: pet_rock__x1_idle_png_1354831039_80
+    21300162: pet_rock__x1_idle_png_1354831039_81
+    21300164: pet_rock__x1_idle_png_1354831039_82
+    21300166: pet_rock__x1_idle_png_1354831039_83
+    21300168: pet_rock__x1_idle_png_1354831039_84
+    21300170: pet_rock__x1_idle_png_1354831039_85
+    21300172: pet_rock__x1_idle_png_1354831039_86
+    21300174: pet_rock__x1_idle_png_1354831039_87
+    21300176: pet_rock__x1_idle_png_1354831039_88
+    21300178: pet_rock__x1_idle_png_1354831039_89
+    21300180: pet_rock__x1_idle_png_1354831039_90
+    21300182: pet_rock__x1_idle_png_1354831039_91
+    21300184: pet_rock__x1_idle_png_1354831039_92
+    21300186: pet_rock__x1_idle_png_1354831039_93
+    21300188: pet_rock__x1_idle_png_1354831039_94
+    21300190: pet_rock__x1_idle_png_1354831039_95
+    21300192: pet_rock__x1_idle_png_1354831039_96
+    21300194: pet_rock__x1_idle_png_1354831039_97
+    21300196: pet_rock__x1_idle_png_1354831039_98
+    21300198: pet_rock__x1_idle_png_1354831039_99
+    21300200: pet_rock__x1_idle_png_1354831039_100
+    21300202: pet_rock__x1_idle_png_1354831039_101
+    21300204: pet_rock__x1_idle_png_1354831039_102
+    21300206: pet_rock__x1_idle_png_1354831039_103
+    21300208: pet_rock__x1_idle_png_1354831039_104
+    21300210: pet_rock__x1_idle_png_1354831039_105
+    21300212: pet_rock__x1_idle_png_1354831039_106
+    21300214: pet_rock__x1_idle_png_1354831039_107
+    21300216: pet_rock__x1_idle_png_1354831039_108
+    21300218: pet_rock__x1_idle_png_1354831039_109
+    21300220: pet_rock__x1_idle_png_1354831039_110
+    21300222: pet_rock__x1_idle_png_1354831039_111
+    21300224: pet_rock__x1_idle_png_1354831039_112
+    21300226: pet_rock__x1_idle_png_1354831039_113
+    21300228: pet_rock__x1_idle_png_1354831039_114
+    21300230: pet_rock__x1_idle_png_1354831039_115
+    21300232: pet_rock__x1_idle_png_1354831039_116
+    21300234: pet_rock__x1_idle_png_1354831039_117
+    21300236: pet_rock__x1_idle_png_1354831039_118
+    21300238: pet_rock__x1_idle_png_1354831039_119
+    21300240: pet_rock__x1_idle_png_1354831039_120
+    21300242: pet_rock__x1_idle_png_1354831039_121
+    21300244: pet_rock__x1_idle_png_1354831039_122
+    21300246: pet_rock__x1_idle_png_1354831039_123
+    21300248: pet_rock__x1_idle_png_1354831039_124
+    21300250: pet_rock__x1_idle_png_1354831039_125
+    21300252: pet_rock__x1_idle_png_1354831039_126
+    21300254: pet_rock__x1_idle_png_1354831039_127
+    21300256: pet_rock__x1_idle_png_1354831039_128
+    21300258: pet_rock__x1_idle_png_1354831039_129
+    21300260: pet_rock__x1_idle_png_1354831039_130
+    21300262: pet_rock__x1_idle_png_1354831039_131
+    21300264: pet_rock__x1_idle_png_1354831039_132
+    21300266: pet_rock__x1_idle_png_1354831039_133
+    21300268: pet_rock__x1_idle_png_1354831039_134
+    21300270: pet_rock__x1_idle_png_1354831039_135
+    21300272: pet_rock__x1_idle_png_1354831039_136
+    21300274: pet_rock__x1_idle_png_1354831039_137
+    21300276: pet_rock__x1_idle_png_1354831039_138
+    21300278: pet_rock__x1_idle_png_1354831039_139
+    21300280: pet_rock__x1_idle_png_1354831039_140
+    21300282: pet_rock__x1_idle_png_1354831039_141
+    21300284: pet_rock__x1_idle_png_1354831039_142
+    21300286: pet_rock__x1_idle_png_1354831039_143
+    21300288: pet_rock__x1_idle_png_1354831039_144
+    21300290: pet_rock__x1_idle_png_1354831039_145
+    21300292: pet_rock__x1_idle_png_1354831039_146
+    21300294: pet_rock__x1_idle_png_1354831039_147
+    21300296: pet_rock__x1_idle_png_1354831039_148
+    21300298: pet_rock__x1_idle_png_1354831039_149
+    21300300: pet_rock__x1_idle_png_1354831039_150
+    21300302: pet_rock__x1_idle_png_1354831039_151
+    21300304: pet_rock__x1_idle_png_1354831039_152
+    21300306: pet_rock__x1_idle_png_1354831039_153
+    21300308: pet_rock__x1_idle_png_1354831039_154
+    21300310: pet_rock__x1_idle_png_1354831039_155
+    21300312: pet_rock__x1_idle_png_1354831039_156
+    21300314: pet_rock__x1_idle_png_1354831039_157
+    21300316: pet_rock__x1_idle_png_1354831039_158
+    21300318: pet_rock__x1_idle_png_1354831039_159
+    21300320: pet_rock__x1_idle_png_1354831039_160
+    21300322: pet_rock__x1_idle_png_1354831039_161
+    21300324: pet_rock__x1_idle_png_1354831039_162
+    21300326: pet_rock__x1_idle_png_1354831039_163
+    21300328: pet_rock__x1_idle_png_1354831039_164
+    21300330: pet_rock__x1_idle_png_1354831039_165
+    21300332: pet_rock__x1_idle_png_1354831039_166
+    21300334: pet_rock__x1_idle_png_1354831039_167
+    21300336: pet_rock__x1_idle_png_1354831039_168
+    21300338: pet_rock__x1_idle_png_1354831039_169
+    21300340: pet_rock__x1_idle_png_1354831039_170
+    21300342: pet_rock__x1_idle_png_1354831039_171
+    21300344: pet_rock__x1_idle_png_1354831039_172
+    21300346: pet_rock__x1_idle_png_1354831039_173
+    21300348: pet_rock__x1_idle_png_1354831039_174
+    21300350: pet_rock__x1_idle_png_1354831039_175
+    21300352: pet_rock__x1_idle_png_1354831039_176
+    21300354: pet_rock__x1_idle_png_1354831039_177
+    21300356: pet_rock__x1_idle_png_1354831039_178
+    21300358: pet_rock__x1_idle_png_1354831039_179
+    21300360: pet_rock__x1_idle_png_1354831039_180
+    21300362: pet_rock__x1_idle_png_1354831039_181
+    21300364: pet_rock__x1_idle_png_1354831039_182
+    21300366: pet_rock__x1_idle_png_1354831039_183
+    21300368: pet_rock__x1_idle_png_1354831039_184
+    21300370: pet_rock__x1_idle_png_1354831039_185
+    21300372: pet_rock__x1_idle_png_1354831039_186
+    21300374: pet_rock__x1_idle_png_1354831039_187
+    21300376: pet_rock__x1_idle_png_1354831039_188
+    21300378: pet_rock__x1_idle_png_1354831039_189
+    21300380: pet_rock__x1_idle_png_1354831039_190
+    21300382: pet_rock__x1_idle_png_1354831039_191
+    21300384: pet_rock__x1_idle_png_1354831039_192
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1632
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_21
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1530
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_31
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_33
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1428
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_45
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_46
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_47
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1326
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_52
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_55
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_57
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_58
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_59
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1224
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_63
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_64
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_66
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_67
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_68
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_69
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_70
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_71
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1122
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_73
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_77
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_78
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_79
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_80
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_81
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_82
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_83
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1020
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_87
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_88
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_89
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_90
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_91
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_92
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_93
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_95
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 918
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_98
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_99
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_100
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_101
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_102
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_103
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_105
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_106
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_107
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 816
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_110
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_111
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_112
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_113
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_114
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_115
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_116
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_117
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_118
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_119
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 714
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_122
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_123
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_125
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_126
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_127
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_128
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_129
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_130
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_131
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 612
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_133
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_134
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_135
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_136
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_137
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_138
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_139
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_140
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_141
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_142
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_143
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 510
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_145
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_146
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_147
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_148
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_149
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_150
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_151
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_152
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_153
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_154
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_155
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 408
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_157
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_158
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_159
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_160
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_161
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_162
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_163
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_164
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_165
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_166
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_167
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 306
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_169
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_170
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_171
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_172
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_173
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_174
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_175
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_176
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_177
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_178
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_179
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 204
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_181
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_182
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_183
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_184
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_185
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_186
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_187
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_188
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_189
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_190
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_191
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 102
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pet_rock__x1_idle_png_1354831039_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -14,11 +14,8 @@ public class FadePanel : MonoBehaviour {
 
     void OnGUI()
     {
-        Debug.Log("ONGUI");
         alpha += fadeDir * fadeSpeed * Time.deltaTime;
-        Debug.Log("alpha" + alpha);
-        alpha = Mathf.Clamp01(alpha);
-
+        alpha = Mathf.Clamp(alpha ,-1f,1f);
         GUI.color = new Color(GUI.color.r, GUI.color.g, GUI.color.b, alpha);
         GUI.depth = drawDepth;
         GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), image);
@@ -44,6 +41,7 @@ public class FadePanel : MonoBehaviour {
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode loadSceneMode)
     {
+        alpha = 1;
         BegainFade(-1);
     }
 }
