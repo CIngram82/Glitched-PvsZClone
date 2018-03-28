@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 715505c7c830a7d4787fb5a4a4407585
+timeCreated: 1522179836
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_0
+    21300002: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_1
+    21300004: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_2
+    21300006: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_3
+    21300008: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_4
+    21300010: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_5
+    21300012: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_6
+    21300014: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_7
+    21300016: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_8
+    21300018: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_9
+    21300020: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_10
+    21300022: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_11
+    21300024: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_12
+    21300026: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_13
+    21300028: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_14
+    21300030: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_15
+    21300032: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_16
+    21300034: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_17
+    21300036: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_18
+    21300038: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_19
+    21300040: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_20
+    21300042: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_21
+    21300044: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_22
+    21300046: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_23
+    21300048: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_24
+    21300050: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_25
+    21300052: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_26
+    21300054: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_27
+    21300056: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_28
+    21300058: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_29
+    21300060: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_30
+    21300062: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_31
+    21300064: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_32
+    21300066: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_33
+    21300068: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_34
+    21300070: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_35
+    21300072: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_36
+    21300074: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_37
+    21300076: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_38
+    21300078: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_39
+    21300080: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_40
+    21300082: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_41
+    21300084: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_42
+    21300086: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_43
+    21300088: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_44
+    21300090: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_45
+    21300092: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_46
+    21300094: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_47
+    21300096: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_48
+    21300098: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_49
+    21300100: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_50
+    21300102: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1240
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1240
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1240
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1240
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1240
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1085
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1085
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1085
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1085
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1085
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_23
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_34
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_39
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_40
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_41
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_45
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_47
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_wave_png_1354839461_51
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
