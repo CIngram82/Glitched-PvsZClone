@@ -35,10 +35,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4179999723265602}
+  - component: {fileID: 95152555748067758}
   - component: {fileID: 61165349672751212}
   - component: {fileID: 50920660972376092}
   - component: {fileID: 114236026662464904}
-  - component: {fileID: 95152555748067758}
   m_Layer: 0
   m_Name: Blue Orb
   m_TagString: Untagged

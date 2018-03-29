@@ -697,6 +697,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114200264154081492, guid: e2f3b55f9ee8f6a49b068379e8057170,
+        type: 2}
+      propertyPath: projectileParent
+      value: 
+      objectReference: {fileID: 876661366}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e2f3b55f9ee8f6a49b068379e8057170, type: 2}
   m_IsPrefabParent: 0
@@ -709,7 +714,7 @@ GameObject:
   m_Component:
   - component: {fileID: 876661367}
   m_Layer: 0
-  m_Name: Projectiles
+  m_Name: ProjectileParrent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1202,6 +1207,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114204329437462302, guid: b01705aee54ea764cb74576ceeb6e8d0,
+        type: 2}
+      propertyPath: projectileParent
+      value: 
+      objectReference: {fileID: 876661366}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b01705aee54ea764cb74576ceeb6e8d0, type: 2}
   m_IsPrefabParent: 0
@@ -1226,15 +1236,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4125492534401604, guid: bd88bbcf29f6c1e45b2fea1ecfb8b181, type: 2}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4125492534401604, guid: bd88bbcf29f6c1e45b2fea1ecfb8b181, type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4125492534401604, guid: bd88bbcf29f6c1e45b2fea1ecfb8b181, type: 2}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4125492534401604, guid: bd88bbcf29f6c1e45b2fea1ecfb8b181, type: 2}
       propertyPath: m_LocalRotation.w

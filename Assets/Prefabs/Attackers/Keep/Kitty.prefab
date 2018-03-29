@@ -36,11 +36,11 @@ GameObject:
   m_Component:
   - component: {fileID: 4614654553969504}
   - component: {fileID: 95501399334729278}
-  - component: {fileID: 114401624052669362}
   - component: {fileID: 61087562063439378}
   - component: {fileID: 50338920933045830}
-  - component: {fileID: 114878373764231240}
   - component: {fileID: 114493280531939422}
+  - component: {fileID: 114401624052669362}
+  - component: {fileID: 114878373764231240}
   m_Layer: 0
   m_Name: Kitty
   m_TagString: Untagged

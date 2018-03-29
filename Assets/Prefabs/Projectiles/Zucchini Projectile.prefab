@@ -19,10 +19,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4360599770815334}
+  - component: {fileID: 95453480772560338}
   - component: {fileID: 61501492054947204}
   - component: {fileID: 50157740002207154}
   - component: {fileID: 114110473227656296}
-  - component: {fileID: 95453480772560338}
   m_Layer: 0
   m_Name: Zucchini Projectile
   m_TagString: Untagged

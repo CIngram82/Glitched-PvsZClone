@@ -21,9 +21,10 @@ GameObject:
   - component: {fileID: 4301251826349714}
   - component: {fileID: 95713649259160200}
   - component: {fileID: 61524560652187636}
-  - component: {fileID: 114234786395657190}
   - component: {fileID: 50655414225868424}
   - component: {fileID: 114666505065143830}
+  - component: {fileID: 114234786395657190}
+  - component: {fileID: 114482745994557140}
   m_Layer: 0
   m_Name: Mushroom Purple
   m_TagString: Untagged
@@ -42,6 +43,21 @@ GameObject:
   - component: {fileID: 212997638981875522}
   m_Layer: 0
   m_Name: Body
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1632216461449806
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4859403869297608}
+  m_Layer: 0
+  m_Name: ProjectileSpawnPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71,8 +87,22 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4158928990088990}
+  - {fileID: 4859403869297608}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4859403869297608
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1632216461449806}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.156, y: 0.191, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4301251826349714}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &50655414225868424
 Rigidbody2D:
@@ -147,6 +177,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d7e99a7145bedb45b9d79487b924093, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114482745994557140
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1081042745951484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d25eb42f97ef0e44b0dd3b31c2f8663, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 1975011420614858, guid: 8a6f12bcff956dd4b96b0ea7273874fa, type: 2}
+  projectileParent: {fileID: 0}
+  projectileSpawnPoint: {fileID: 1632216461449806}
 --- !u!114 &114666505065143830
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -193,7 +237,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300028, guid: b84fdfe240f017c468ea5e8fe6cbad51, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c999446aefd6e4e4a8030ff3ca442369, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

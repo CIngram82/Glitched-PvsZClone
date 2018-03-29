@@ -37,10 +37,10 @@ GameObject:
   - component: {fileID: 4337543865068842}
   - component: {fileID: 95890395636446164}
   - component: {fileID: 61433097792038040}
-  - component: {fileID: 114554771866043694}
   - component: {fileID: 50739710599747336}
-  - component: {fileID: 114224263295233084}
   - component: {fileID: 114243074919621722}
+  - component: {fileID: 114554771866043694}
+  - component: {fileID: 114224263295233084}
   m_Layer: 0
   m_Name: Ragdoll 01
   m_TagString: Untagged

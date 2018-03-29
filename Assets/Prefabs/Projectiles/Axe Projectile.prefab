@@ -35,10 +35,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4435631079598328}
+  - component: {fileID: 95141915910175018}
   - component: {fileID: 61348587600460512}
   - component: {fileID: 50426314179797118}
   - component: {fileID: 114415495313707706}
-  - component: {fileID: 95141915910175018}
   m_Layer: 0
   m_Name: Axe Projectile
   m_TagString: Untagged

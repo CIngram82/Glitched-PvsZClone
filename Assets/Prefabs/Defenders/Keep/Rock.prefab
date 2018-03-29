@@ -37,10 +37,10 @@ GameObject:
   - component: {fileID: 4442069562967802}
   - component: {fileID: 95411535389812140}
   - component: {fileID: 61494326112893234}
-  - component: {fileID: 114548549974322568}
   - component: {fileID: 50147151598001358}
-  - component: {fileID: 114460834290190340}
+  - component: {fileID: 114548549974322568}
   - component: {fileID: 114776908317614654}
+  - component: {fileID: 114460834290190340}
   m_Layer: 0
   m_Name: Rock
   m_TagString: Untagged

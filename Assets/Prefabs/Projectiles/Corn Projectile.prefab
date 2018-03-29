@@ -19,10 +19,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4125492534401604}
+  - component: {fileID: 95076229880895054}
   - component: {fileID: 61785648001083680}
   - component: {fileID: 50353639734324614}
   - component: {fileID: 114254942769938618}
-  - component: {fileID: 95076229880895054}
   m_Layer: 0
   m_Name: Corn Projectile
   m_TagString: Untagged

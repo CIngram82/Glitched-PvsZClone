@@ -20,11 +20,11 @@ GameObject:
   m_Component:
   - component: {fileID: 4951237983795396}
   - component: {fileID: 95352883390315148}
-  - component: {fileID: 114133951556544986}
   - component: {fileID: 61704829882260192}
-  - component: {fileID: 114855886326462982}
   - component: {fileID: 50331407630457946}
   - component: {fileID: 114398495563881594}
+  - component: {fileID: 114133951556544986}
+  - component: {fileID: 114855886326462982}
   m_Layer: 0
   m_Name: Fox
   m_TagString: Untagged

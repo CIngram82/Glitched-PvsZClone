@@ -27,6 +27,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &1154523594727118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4056046151204946}
+  m_Layer: 0
+  m_Name: ProjectileSpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &1366640525322652
 GameObject:
   m_ObjectHideFlags: 0
@@ -37,9 +52,10 @@ GameObject:
   - component: {fileID: 4051664575180840}
   - component: {fileID: 95225811731594942}
   - component: {fileID: 61328576675565656}
-  - component: {fileID: 114327996874333148}
   - component: {fileID: 50358255730042480}
   - component: {fileID: 114474949560131774}
+  - component: {fileID: 114327996874333148}
+  - component: {fileID: 114644369349911514}
   m_Layer: 0
   m_Name: Scarecrow
   m_TagString: Untagged
@@ -58,8 +74,22 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4728032346399590}
+  - {fileID: 4056046151204946}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4056046151204946
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1154523594727118}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.299, y: -0.088, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4051664575180840}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4728032346399590
 Transform:
@@ -159,6 +189,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 10
+--- !u!114 &114644369349911514
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1366640525322652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d25eb42f97ef0e44b0dd3b31c2f8663, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 1317595465425034, guid: bd88bbcf29f6c1e45b2fea1ecfb8b181, type: 2}
+  projectileParent: {fileID: 0}
+  projectileSpawnPoint: {fileID: 1154523594727118}
 --- !u!212 &212373263008737020
 SpriteRenderer:
   m_ObjectHideFlags: 1

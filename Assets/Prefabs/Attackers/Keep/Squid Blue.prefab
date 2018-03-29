@@ -36,11 +36,11 @@ GameObject:
   m_Component:
   - component: {fileID: 4088807509654228}
   - component: {fileID: 95200689763739284}
-  - component: {fileID: 114904327983131112}
   - component: {fileID: 61517579091653528}
   - component: {fileID: 50176375774981062}
-  - component: {fileID: 114757495554935138}
   - component: {fileID: 114565235504694324}
+  - component: {fileID: 114904327983131112}
+  - component: {fileID: 114757495554935138}
   m_Layer: 0
   m_Name: Squid Blue
   m_TagString: Untagged

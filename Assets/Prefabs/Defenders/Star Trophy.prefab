@@ -71,9 +71,9 @@ GameObject:
   - component: {fileID: 4250478770718538}
   - component: {fileID: 95144161220019302}
   - component: {fileID: 61305133665572596}
-  - component: {fileID: 114138392360144850}
   - component: {fileID: 50216078941818730}
   - component: {fileID: 114654537292570922}
+  - component: {fileID: 114138392360144850}
   m_Layer: 0
   m_Name: Star Trophy
   m_TagString: Untagged
