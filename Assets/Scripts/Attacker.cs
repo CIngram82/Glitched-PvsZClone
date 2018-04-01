@@ -27,10 +27,6 @@ public class Attacker : MonoBehaviour {
     {
         currentSpeed = speed;
     }
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        Debug.Log(name + "Trigger Enter");
-    }
 
     public void StrikeCurrentTarget (float damage)
     {

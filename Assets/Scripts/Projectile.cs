@@ -6,13 +6,25 @@ public class Projectile : MonoBehaviour {
 
     public float speed;
     public float damage;
-	// Use this for initialization
-	void Start () {
-		
-	}
 	
-	// Update is called once per frame
 	void Update () {
         transform.Translate(Vector3.right * speed * Time.deltaTime);
 	}
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        GameObject obj = collision.gameObject;
+
+        if (!obj.GetComponent<Attacker>())
+        {
+            return;
+        }
+
+        if (obj.GetComponent<Attacker>())
+        {
+            Health targetHealth =  collision.GetComponent<Health>();
+            targetHealth.TakeDamage(damage);
+            Destroy(gameObject);
+        }
+    }
 }
