@@ -21,6 +21,14 @@ public class Shooter : MonoBehaviour {
         newProjectile.transform.position = projectileSpawnPoint.transform.position;
         newProjectile.transform.parent = projectileParent.transform;
     }
-
-
+    private void Update()
+    {
+        if (isAttackerAheadInLane())
+        {
+            animator.SetBool("isAttacking", true);
+        } else
+        {
+            animator.SetBool("isAttacking", false);
+        }
+    }
 }

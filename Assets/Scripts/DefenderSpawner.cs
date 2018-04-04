@@ -4,21 +4,22 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour {
-
+    private GameObject parent;
 	// Use this for initialization
 	void Start () {
-		
+        parent = GameObject.Find("Defenders");
+        if (!parent)
+        {
+            parent = new GameObject("Defenders");
+        }
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
     private void OnMouseDown()
     {
         Vector2 rawPos = CalculateWordPointOfMouseClick();
         Vector2 roundedPos = SnapToGrid(rawPos);
         Defender defender = Instantiate (Button.selectedDefender);
+        defender.transform.parent = parent.transform;
         defender.transform.position = roundedPos;
 
     }

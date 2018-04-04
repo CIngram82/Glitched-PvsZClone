@@ -7,8 +7,9 @@ public class Attacker : MonoBehaviour {
 
     private GameObject currentTarget;
     private Animator anim;
-    private float currentSpeed;
-    private float damage;
+    private float currentSpeed, damage;
+    [Tooltip ("Average number of seconds between appearances")]
+    public float seenEverySeconds;
 
 
     void Start ()
@@ -27,7 +28,6 @@ public class Attacker : MonoBehaviour {
     {
         currentSpeed = speed;
     }
-
     public void StrikeCurrentTarget (float damage)
     {
         if (currentTarget)
