@@ -24,7 +24,11 @@ public class Projectile : MonoBehaviour {
         {
             Health targetHealth =  collision.GetComponent<Health>();
             targetHealth.TakeDamage(damage);
-            Destroy(gameObject);
+            DestroySelf();
         }
+    }
+    private void DestroySelf()
+    {
+        Destroy(gameObject);
     }
 }

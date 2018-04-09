@@ -5,8 +5,11 @@ using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour {
     private GameObject parent;
-	// Use this for initialization
+    private ManaDisplay manaDisplay;
+
 	void Start () {
+        manaDisplay = FindObjectOfType<ManaDisplay>();
+
         parent = GameObject.Find("Defenders");
         if (!parent)
         {
@@ -16,19 +19,37 @@ public class DefenderSpawner : MonoBehaviour {
 	
     private void OnMouseDown()
     {
-        Vector2 rawPos = CalculateWordPointOfMouseClick();
-        Vector2 roundedPos = SnapToGrid(rawPos);
-        Defender defender = Instantiate (Button.selectedDefender);
-        defender.transform.parent = parent.transform;
-        defender.transform.position = roundedPos;
+        if (Button.selectedDefender != null){
+            Vector2 roundedPos = CalculateWordPointOfMouseClick();
+            if (manaDisplay.SpendMana(Button.selectedDefender.manaCost) == ManaDisplay.Status.SUCCESS)
+            {
+                SpawnDefender(roundedPos);
+            }
+            else
+            {
+                Debug.Log("to little mana");
+            }
+        }
+        else
+        {
+            Debug.Log("no defender selected");
+        }
 
     }
 
+    private void SpawnDefender(Vector2 roundedPos)
+    {
+        Defender defender = Instantiate(Button.selectedDefender);
+        defender.transform.parent = parent.transform;
+        defender.transform.position = roundedPos;
+    }
     Vector2 SnapToGrid(Vector2 mousePos)
     {
-        Vector2 mousePosOnGrid = new Vector2();
-        mousePosOnGrid.x = Mathf.RoundToInt(mousePos.x);
-        mousePosOnGrid.y = Mathf.RoundToInt(mousePos.y);
+        Vector2 mousePosOnGrid = new Vector2
+        {
+            x = Mathf.RoundToInt(mousePos.x),
+            y = Mathf.RoundToInt(mousePos.y)
+        };
 
         return mousePosOnGrid;
     }

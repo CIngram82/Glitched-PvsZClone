@@ -15,17 +15,17 @@ EditorBuildSettings:
     path: Assets/_Scenes/Options.unity
     guid: 223fb89568a429240904073cbd16b1e8
   - enabled: 1
-    path: Assets/_Scenes/Win Screen.unity
-    guid: 14c4ccf78295b44a4b81771a29ac16ba
-  - enabled: 1
-    path: Assets/_Scenes/Lose.unity
-    guid: cb4c05506ad311a458e5f7945a9710d4
-  - enabled: 1
     path: Assets/_Scenes/Level_01.unity
     guid: 4d4a4989583ccde46b59fe04923b0a18
   - enabled: 1
     path: Assets/_Scenes/Level_02.unity
-    guid: 020d4d92dbf4a594c807404d0943a68e
+    guid: 3d8a3a1974310c04a844725a62792b78
   - enabled: 1
     path: Assets/_Scenes/Level_03.unity
-    guid: 9eef21b6857e6f24d88a5927522ba0e5
+    guid: 85cf5b38b6f189f43a19a260707ad625
+  - enabled: 1
+    path: Assets/_Scenes/Win.unity
+    guid: 14c4ccf78295b44a4b81771a29ac16ba
+  - enabled: 1
+    path: Assets/_Scenes/Lose.unity
+    guid: cb4c05506ad311a458e5f7945a9710d4

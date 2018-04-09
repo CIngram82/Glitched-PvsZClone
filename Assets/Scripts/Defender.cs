@@ -3,18 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Defender : MonoBehaviour {
+    private ManaDisplay manaDisplay;
+    public int manaCost = 10;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void Start()
     {
-        Debug.Log(name + "Trigger Enter");
+        manaDisplay = FindObjectOfType<ManaDisplay>();
+    }
+    public void AddMana(int amount)
+    {
+        manaDisplay.AddMana(amount);
     }
 }

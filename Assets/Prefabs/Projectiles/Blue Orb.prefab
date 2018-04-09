@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 114236026662464904}
   m_Layer: 0
   m_Name: Blue Orb
-  m_TagString: Untagged
+  m_TagString: DestroyOnWin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.5
-  damage: 1
+  damage: 2
 --- !u!212 &212504128837532998
 SpriteRenderer:
   m_ObjectHideFlags: 1
