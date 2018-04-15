@@ -930,37 +930,32 @@ Prefab:
     - target: {fileID: 224695206260150264, guid: e74d2f0ab30340848808ade959229b50,
         type: 2}
       propertyPath: m_AnchorMin.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224695206260150264, guid: e74d2f0ab30340848808ade959229b50,
         type: 2}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224695206260150264, guid: e74d2f0ab30340848808ade959229b50,
         type: 2}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224052462086552330, guid: e74d2f0ab30340848808ade959229b50,
         type: 2}
       propertyPath: m_AnchorMin.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224052462086552330, guid: e74d2f0ab30340848808ade959229b50,
         type: 2}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224052462086552330, guid: e74d2f0ab30340848808ade959229b50,
         type: 2}
       propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114484635290079758, guid: e74d2f0ab30340848808ade959229b50,
-        type: 2}
-      propertyPath: startTime
-      value: 10
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e74d2f0ab30340848808ade959229b50, type: 2}
@@ -1932,7 +1927,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1812415300}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: df6e02685a98da44a8b3bfaba32f29c2, type: 3}
+  m_Script: {fileID: 11500000, guid: f89740e438f7713448384a288ae09354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &1812415303
@@ -1996,7 +1991,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 47357cd20d71d4c4f95c77a99e733ddf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f00cbddfc50af9c42b7db420d2307639, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
